@@ -8,4 +8,4 @@ Don't attempt this pack thinking you'll get favorable results; this pack include
 Meaning, it's very likely the average user will mix or incorrectly use the tweaks. 
 Therefore, it's recommended you refrain from attempting to use this pack unless you are well-versed in tweaking.
 
-Simply extract [(Quaked) Pc Optimization Ver - 8.8](https://github.com/QuakedK/Pc-Optimization-Pack/releases/download/optimization/Quaked.Pc.Optimization.Ver.-.8.8.zip), and almost everything else is self explanatory!
+Simply extract [(Quaked) Pc Optimization Ver - 8.8](https://github.com/QuakedK/Pc-Optimization-Pack/releases/download/optimization/Quaked-Pc-Optimization-Ver-9.0.zip), and almost everything else is self explanatory!
