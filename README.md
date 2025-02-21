@@ -9,3 +9,5 @@ Meaning, it's very likely the average user will mix or incorrectly use the tweak
 Therefore, it's recommended you refrain from attempting to use this pack unless you are well-versed in tweaking.
 
 Simply extract [(Quaked) Pc Optimization Ver - 9.2](https://github.com/QuakedK/Pc-Optimization-Pack/releases/download/optimization/Quaked-Pc-Optimization-Ver-9.2.zip), and almost everything else is self explanatory!
+
+![GitHub Release Downloads](https://img.shields.io/github/downloads/QuakedK/Pc-Optimization-Pack/total)
